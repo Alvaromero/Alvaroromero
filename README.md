@@ -1,40 +1,55 @@
 # Hi, I'm Alvaro 👋
 
-I'm a Software Engineer from Nicaragua 🇳🇮, passionate about building reliable applications, solving complex problems, and designing software that makes a real impact.
+I'm a Software Engineer from Nicaragua 🇳🇮 with a passion for building reliable software, solving complex problems, and understanding how systems work under the hood.
 
-My experience focuses on developing and maintaining enterprise applications, integrating external services, and improving systems that support complex business operations.
+I have extensive experience developing enterprise applications, working with databases, integrating external services, and designing solutions for complex business operations.
 
-### 💻 What I do
+I particularly enjoy working with **SQL**, exploring software architecture, and finding simple, efficient solutions to challenging problems.
 
-- Design and develop enterprise applications.
+### 💻 What I Do
+
+- Design, develop, and maintain enterprise applications.
 - Build APIs and integrate third-party services.
-- Work on software architecture and system migrations.
+- Work with relational databases, complex queries, and data-intensive applications.
+- Contribute to software architecture and large-scale system migrations.
 - Improve application performance, reliability, and maintainability.
-- Review code, mentor developers, and collaborate across engineering teams.
-- Explore AI-assisted development workflows and engineering automation.
+- Review code, mentor developers, and collaborate with engineering teams.
+- Explore AI-assisted development and engineering automation.
 
 ### 🛠️ Tech Stack
 
-**Backend:** PHP, Laravel, REST APIs, MySQL, Redis
+**Languages**
+- PHP, Python, JavaScript, SQL
 
-**Frontend:** JavaScript, Vue.js
+**Frameworks & Technologies**
+- Laravel, Vue.js, REST APIs
 
-**Infrastructure & Tools:** Docker, Git, Linux, AWS
+**Databases**
+- MySQL, Oracle, Redis
 
-**AI Development:** Claude Code, OpenAI Codex
+**Infrastructure & Tools**
+- Linux, Docker, AWS, Git
 
-### 🚀 What I'm interested in
+**AI Development Tools**
+- Claude Code, OpenAI Codex
 
-- Software Architecture & System Design
+### 🧠 What Interests Me
+
+- **SQL & Databases** — Query optimization, data modeling, and solving complex problems with SQL.
+- **Software Architecture** — Designing maintainable, scalable, and well-structured systems.
+- **Backend Engineering** — Building reliable APIs, integrations, and business logic.
+- **System Design** — Understanding how different components interact and evolve.
+- **Developer Experience** — Improving development workflows, tooling, and code quality.
+- **AI-Assisted Engineering** — Exploring how AI can improve software development.
+
+### 🚀 Currently Exploring
+
 - Domain-Driven Design (DDD)
-- Scalable Enterprise Applications
-- Developer Experience & Automation
-- AI-Assisted Software Engineering
-
-### 🌱 Currently
-
-Exploring better approaches to software architecture, modern development workflows, and AI-assisted engineering while working on large-scale enterprise systems.
+- Modern software architecture patterns
+- AI-assisted development workflows
+- Engineering automation
+- Better approaches to building and maintaining large-scale applications
 
 ---
 
-*Always learning, improving, and looking for better ways to build software.*
+*Always curious. Always learning. Always looking for a better way to build things.*
